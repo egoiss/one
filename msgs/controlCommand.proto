@@ -1,0 +1,7 @@
+package stoupentoPlugin_msgs.msgs;
+
+message ControlCommand
+{
+  required double                 u0l  = 1;
+  required double                 u0r  = 2;
+}

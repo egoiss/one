@@ -1,0 +1,7 @@
+# Hashes of file build rules.
+03a4b15187e7c69379325e39108b66b4 msgs/controlCommand.pb.cc
+6246b8b0da06a59d24bfec1efeaa5dd9 msgs/header.pb.cc
+604ec882ab76559ed2a936c2cab3d7ce msgs/stoupento_mesurement.pb.cc
+e5bab2fdb034012bcd5d7e454784653f msgs/time.pb.cc
+a9b1341347b480e9f2ea90fd057b82cc msgs/vector2d.pb.cc
+38230ce736bda257043c4f921e7e3759 msgs/vector3d.pb.cc
